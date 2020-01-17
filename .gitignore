@@ -1,0 +1,14 @@
+/vendor
+/node_modules
+/app/Photos
+Homestead.yaml
+.env
+/public/css/app.css
+/public/css/app.css.map
+/public/js/app.js
+/public/js/app.js.map
+
+#Ignoring private docker files
+docker-compose.base.yml
+docker-compose.ci.yml
+docker-compose.dev.yml
